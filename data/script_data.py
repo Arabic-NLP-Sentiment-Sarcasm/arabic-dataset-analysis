@@ -9,8 +9,12 @@ print("\nArSarcasm Dataset")
 print("Task: Arabic sarcasm detection")
 print("Source: https://github.com/iabufarha/ArSarcasm")
 
+
 print("===Sample of Data====")
 print(df.head(5))
+print("---")
+print(df["sarcasm"].value_counts())
+
 print("__________________________")
 #Arabic Sentiment Tweets Dataset
 df = pd.read_csv(
@@ -26,3 +30,6 @@ print("Source: https://github.com/mahmoudnabil/ASTD")
 
 print("=== Sample of Data ===")
 print(df.head(5))
+print("---")
+print(df["sentiment"].value_counts())
+
