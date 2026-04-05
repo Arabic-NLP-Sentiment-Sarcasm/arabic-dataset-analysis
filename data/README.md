@@ -42,7 +42,5 @@ The script is used to:
 - Load datasets
 - Display basic information
 - Show sample data
-- Perform simple sentiment classification preview
-
 ---
  
