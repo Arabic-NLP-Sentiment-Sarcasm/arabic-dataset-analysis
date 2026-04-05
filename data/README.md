@@ -42,5 +42,6 @@ The script is used to:
 - Load datasets
 - Display basic information
 - Show sample data
+- Count of Sentiment & ArSarcasm label for sample data
 ---
  
