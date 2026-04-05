@@ -1,1 +1,11 @@
-
+dialect,sarcasm,sentiment,original_sentiment,tweet,source
+gulf,False,negative,negative,"""نصيحه ما عمرك اتنزل لعبة سوبر ماريو مش زي ما كنّا متوقعين الله يرحم ايامات السيقا والفاميلي #SuperMarioRun""",semeval
+msa,False,neutral,positive,"""#نادين_نسيب_نجيم ❤️❤️❤️مجلة #ماري_كلير 💭#ملكة_الصحراء  👑https://t.co/fVtn489TUS@nadinenjeim @MarieClaire_AR""",semeval
+egypt,False,neutral,neutral,"""@Alito_NBA اتوقع انه بيستمر""",semeval
+levant,True,neutral,negative,"""@KSA24 يعني ""بموافقتنا"" لأن دمشق صايرة موسكو""",semeval
+msa,False,neutral,negative,"""RT @alaahmad20: قائد في الحرس يعترف بفقدان السيطرة الأمنية في شرقي وغربي إيران - أحوازنا#الأحواز #السعودية @abo_asseel @spagov  https:/…""",semeval
+egypt,True,negative,negative,شوال الفلوس سويرس مشغول اوى اليومين دول بقناة الجزيرة ونازل شتيمة وتريقه فيها وفى ضيوفها خدك بيوجعك اوى ياشوال,astd
+msa,False,negative,negative,"""الأمين العام للأمم المتحدة: بشار الأسد قتل 300 ألف شخص فى سوريا https://t.co/KMXrqNovgE""",semeval
+egypt,True,negative,neutral,"حسبنا الله ونعم الوكيل "" #انتخبوا_العرص #بيقولك_أعرف_بلدك #الحرية_للجدعان ناس عا…",astd
+msa,False,negative,negative,"""RT @isharatidriss: ٣٠)#امريكا_ومحاربة_الارهاب الذي صنعتة لمواصلة الكيد والحقد الذي يملاء قلوب دول الكفر علي الاسلام والمسلمين( يا ايها الذي…""",semeval
+msa,False,neutral,negative,"""رئيس لجنة الحكام رضا البلتاجى يفتح النار على #عمرو_أديب https://t.co/2PYLdCqvtp""",semeval
