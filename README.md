@@ -30,3 +30,8 @@ The `data/` folder contains all Sample ,Source of Dataset and scripts decribe it
   Provides detailed description of dataset structure and fields.
 
 ---
+
+Reference
+---------
+ASTD Source: https://github.com/mahmoudnabil/ASTD/tree/master
+ArSarcasm Source: 
